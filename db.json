@@ -1,0 +1,36 @@
+{
+  "resources": [
+    {
+      "Name": "iphone 12",
+      "Categories": "iphone",
+      "Description": "ra dqdujqd hdqe",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "Regular_price": "120 000đ",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Name": "sam sung untra",
+      "Categories": "sam sung",
+      "Description": "ra dqdujqd hdqe",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142436/anhhtus/%C4%90%E1%BB%81%20thi/sm-s908_galaxys22ultra_front_burgundy_211119_1_mccaah.jpg",
+      "Regular_price": "110 000đ"
+    },
+    {
+      "Name": "iphone",
+      "Categories": "nj",
+      "Description": "ra dqdujqd hdqe",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142435/anhhtus/%C4%90%E1%BB%81%20thi/macbook_256_ousklt.png",
+      "Regular_price": "125 000đ",
+      "id": 3
+    },
+    {
+      "Name": "d",
+      "Categories": "",
+      "Description": "d",
+      "Images": "",
+      "Regular_price": "",
+      "id": 4
+    }
+  ]
+}
